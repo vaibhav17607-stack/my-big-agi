@@ -8,12 +8,12 @@
  */
 export const Brand = {
   Title: {
-    Base: 'Vaibhav pandey | [MVIET]',
-    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'Big-AGI',
+    Base: 'Vaibhav pandey | AI Workspace',
+    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'Vaibhav AI',
   },
   Meta: {
-    Description: 'developed by vaibhav pandey - Mvians',
-    SiteName: 'Big-AGI | The Expert\'s AI Workspace',
+    Description: 'PersonaLized AI Workspace created by Vaibhav Pandey',
+    SiteName: 'Vaibhav AI | The Expert\'s Workspace',
     ThemeColor: '#32383E',
     TwitterSite: '@enricoros',
   },
@@ -21,7 +21,7 @@ export const Brand = {
     Home: 'https://big-agi.com',
     // App: 'https://get.big-agi.com',
     CardImage: 'https://big-agi.com/icons/card-dark-1200.png',
-    OpenRepo: 'https://github.com/enricoros/big-agi',
+    OpenRepo: 'https://github.com/vaibhav17607-stack/my-big-agi',
     OpenProject: 'https://github.com/users/enricoros/projects/4',
     SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
     // Twitter: 'https://x.com/enricoros',
