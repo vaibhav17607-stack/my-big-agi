@@ -14,6 +14,7 @@ export const Brand = {
   Meta: {
     Description: 'PersonaLized AI Workspace created by Vaibhav Pandey',
     SiteName: 'Vaibhav AI | The Expert\'s Workspace',
+    GoogleSiteVerification: 'PrL0DfRCx4XVN9qIbadQpmqu-vuPLtdmIYmHkyA7hgg',
     ThemeColor: '#32383E',
     TwitterSite: '@enricoros',
   },
